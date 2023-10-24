@@ -6,9 +6,11 @@
   "exposable": false,
   "https": true,
   "id": "scrypted",
-  "tipi_version": 5,
-  "version": "18-jammy-full.s6-v0.57.0",
-  "categories": ["security"],
+  "tipi_version": 6,
+  "version": "20-jammy-full.s6-v0.57.0",
+  "categories": [
+    "security"
+  ],
   "description": "Scrypted is a high performance home video integration and automation platform",
   "short_desc": "High performance home video integration and automation platform",
   "author": "Koush",
